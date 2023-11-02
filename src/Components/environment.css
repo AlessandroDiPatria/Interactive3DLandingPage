@@ -1,0 +1,41 @@
+
+   canvas{
+    position: fixed;
+      top: 0;
+      left: 0;
+      display: block;
+     
+    }
+    
+    
+    
+    .button{
+      z-index: 10;
+      position: absolute;
+      margin-top: 520px;
+      margin-left: 5%;
+      height: 44px;
+      width: 120px;
+      border-radius: 10px;
+      border: none;
+      color: rgb(255, 255, 255);
+      background-color: rgb(0, 0, 0);
+      
+    }
+    img{
+      z-index: 10;
+      position: absolute;
+      max-width: 30px;
+      max-height: 30px;
+    
+    }
+    
+    h1 {
+      position: absolute;
+      z-index: 10;
+      color: white;
+      margin-top: 320px;
+      margin-left: 5%;
+    
+      
+    }
