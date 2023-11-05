@@ -26,7 +26,12 @@ This because this site was initially thought for web3.
 
 
 ## Demo 
-![alt text](https://github.com/AlessandroDiPatria/Interactive3DLandingPage/blob/main/demo.mov)
+
+
+
+
+https://github.com/AlessandroDiPatria/Interactive3DLandingPage/assets/82099379/73593d38-a1aa-4493-a740-bad67702f669
+
 
 
 
